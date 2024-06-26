@@ -1,4 +1,9 @@
-## Hi there 👋 I'm Alexandra.
+<!-- bannner -->
+![]([https://github.com/poncest/poncest/blob/main/icons/banner_03.png](https://www.finereport.com/en/wp-content/uploads/2020/08/image-9.png))
+
+<h1 style="font-weight:normal" align="center">
+   &nbsp;Hi there 👋 I'm Alexandra.
+</h1>
 
 <!--
 **agoh0008/agoh0008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
