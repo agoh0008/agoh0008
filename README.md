@@ -1,55 +1,53 @@
-<!-- bannner -->
-![banner](https://github.com/agoh0008/agoh0008/blob/main/banner.png)
+<!-- Banner and Introduction -->
+<div align="center">
+  <img src="https://github.com/agoh0008/agoh0008/blob/main/banner.png" alt="Banner">
+  <h1>Hi there 👋 I'm Alexandra.</h1>
+</div>
 
-<h1 style="font-weight:normal" align="center">
-   &nbsp;Hi there 👋 I'm Alexandra.
-</h1>
+<hr>
 
-<!--
-**agoh0008/agoh0008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Education and Background -->
+<div align="center">
+  <h2>🎓 Education</h2>
+  <p>I’m currently studying Master of Business Analytics at Monash University, Australia.<br>
+  I hold a Bachelor's degree in Business with a double major in Economics & Marketing from Monash University.</p>
+</div>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Interests -->
+<div align="center">
+  <h2>🌟 Interests</h2>
+  <p>Data Science and Analytics • Data Visualization • Business Intelligence • Marketing Analytics</p>
+</div>
 
-🎓 I’m currently studying Master of Business Analytics at Monash University, Australia.
+<hr>
 
-📊 I hold a Bachelor's degree in Business with a double major in Economics & Marketing from Monash University.
+<!-- Skills Section -->
+<div align="center">
+  <h2>💡 Languages & Tools</h2>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="PowerBi">
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP">
+</div>
 
-### 🌟 Interests:
-- Data Science and Analytics
-- Predictive Modeling and Forecasting
-- Project Management
-- E-Commerce and Customer Analytics
+<hr>
 
-### 💡 Skills:
-- Proficient in R programming, Python, SQL, and Tableau.
+<!-- Collaboration Section -->
+<div align="center">
+  <h2>🌍 Looking to collaborate on projects in:</h2>
+  <p>Predictive Modeling and Forecasting • Data Mining and Statistical Analysis • Machine Learning • Process Optimization</p>
+</div>
 
-  
-### 🌍 Looking to collaborate on projects in:
-- Business Intelligence
-- Data Mining and Statistical Analysis
-- Machine Learning
-- Process Optimization
+<hr>
 
-### 📫 Get in Touch:
-
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandra-goh-4b3023181/)
-
-### ⚙️ Languages and Tools I have experience using:
-  
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![PowerBi](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-  
+<!-- Contact -->
+<div align="center">
+  <h2>📫 Get in Touch</h2>
+  <a href="https://www.linkedin.com/in/alexandra-goh-4b3023181/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
